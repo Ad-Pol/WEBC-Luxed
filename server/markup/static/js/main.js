@@ -1517,8 +1517,8 @@ var slider2 = {
   breakpoints: {
     992: {
       navigation: {
-        nextEl: '.swiper-button--next-project',
-        prevEl: '.swiper-button--prev-project'
+        nextEl: '.swiper-button-nextp',
+        prevEl: '.swiper-button-prevp'
       }
     }
   }
